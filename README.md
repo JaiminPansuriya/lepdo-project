@@ -3,7 +3,7 @@
 1. Clone the repository:
 git clone https://github.com/JaiminPansuriya/lepdo-project.git
 
-2. Navigate project
+2. Navigate project:
 cd lepdo-project
 
 3. Install dependencies:
